@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Non-profit, educational, or personal use tips the balance in favor of fair use and helps companies to build intelligent products and operational strategies. All of the information is for educational purposes. 👋
 
 <!--
 **jervisai/jervisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
