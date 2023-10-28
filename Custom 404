@@ -1,0 +1,8 @@
+<style type="text/css"> #error-404 { border: 20px solid #1B1B1B; border-radius: 240px 240px 240px 240px; height: 240px; margin: 0 auto 40px; text-align: center; transition: all 0.8s ease 0s; width: 240px; } #error-404:hover { border-color: #333; } #error-404 span { color: #FA4C29; font-size: 100px; font-weight: bold; line-height: 240px; } .large-heading { font-size: 48px; line-height: 1.2em; } .light-heading { font-weight: 400; } .status-msg-bg { background-color: transparent; } .sidebar-wrapper, .page-header { display: none; } .main-wrapper { margin-right: 0; } .outer-wrapper { min-height: 0; } .status-msg-border { border: 0 none; } </style> <div id="error-404"> <span>404</span>
+</div> <h2 class="large-heading" style="text-align: center;">Page not found.</h2>
+<h3 class="light-heading" style="text-align: center;">Sorry, the page you were looking for on this blog does not exist.<br>You will be redirected shortly to the homepage.</h3>
+<script type = "text/javascript">
+BSPNF_redirect = setTimeout(function() {
+location.pathname= "/"
+}, 5000);
+</script>
