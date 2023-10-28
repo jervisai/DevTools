@@ -1,0 +1,44 @@
+</script>
+   <script type='application/ld+json'>
+{
+  &quot;@context&quot; : &quot;http://schema.org&quot;,
+  &quot;@type&quot; : &quot;Organization&quot;,
+  &quot;name&quot; : &quot;JERVISAI&quot;,
+ &quot;url&quot; : &quot;https://jervisai.blogspot.com/&quot;,
+ &quot;sameAs&quot; : [
+   &quot;https://twitter.com/jervisai&quot;,
+   &quot;https://www.facebook.com/jervisai&quot;,
+   &quot;https://www.instagram.com/jervisai/?hl=en&quot;
+   ],
+  &quot;address&quot;: {
+    &quot;@type&quot;: &quot;PostalAddress&quot;,
+    &quot;streetAddress&quot;: &quot;123 Street&quot;,
+    &quot;addressRegion&quot;: &quot;CA&quot;,
+    &quot;postalCode&quot;: &quot;94040&quot;,
+    &quot;addressCountry&quot;: &quot;US&quot;
+  }
+}
+</script>
+   <script type='application/ld+json'>
+{
+  &quot;@context&quot;: &quot;https://schema.org/&quot;,
+  &quot;@type&quot;: &quot;Person&quot;,
+  &quot;name&quot;: &quot;Imtahanul Islam&quot;,
+  &quot;url&quot;: &quot;https://jervisai.blogspot.com&quot;,
+  &quot;image&quot;: &quot;https://drive.google.com/file/d/1L9rypJdxjapxmTlf6U8aQK-pIyhCcDnY/view?usp=sharing&quot;,
+  &quot;jobTitle&quot;: &quot;Owner&quot;,
+  &quot;worksFor&quot;: {
+    &quot;@type&quot;: &quot;Organization&quot;,
+    &quot;name&quot;: &quot;JERVISAI&quot;
+  },
+  &quot;sameAs&quot;: [
+    &quot;https://www.facebook.com/jervisai&quot;,
+    &quot;https://www.instagram.com/imtahanulislam/&quot;,
+    &quot;https://twitter.com/ImtahanulIslam&quot;,
+    &quot;https://www.linkedin.com/company/jervisai&quot;,
+    &quot;https://www.behance.net/imtahanulislam&quot;,
+    &quot;https://dribbble.com/imtahanulislam&quot;,
+    &quot;https://www.youtube.com/@jervisai&quot;
+  ]
+}
+</script>
