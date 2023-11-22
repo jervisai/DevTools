@@ -48,3 +48,5 @@ Disallow:
 
 Sitemap: https://www.google.com/sitemap.xml
 Sitemap: https://www.google.com/atom.xml
+Sitemap: https://www.google.com/atom.xml?redirect=false&start-index=1&max-results=500
+Sitemap: http://www.google.com/atom.xml?redirect=false&start-index=501&max-results=1000 
